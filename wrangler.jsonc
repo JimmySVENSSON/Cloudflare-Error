@@ -1,0 +1,6 @@
+{
+  "name": "custom-error",
+  "main": "public",       // points to the folder containing your HTML
+  "compatibility_date": "2025-08-26",
+  "type": "static"
+}
